@@ -10,7 +10,7 @@ github: "https://github.com/"
 
 # Site config
 # baseurl: "/daheewoo.github.io"
-baseurl: ""
+baseurl: "/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
